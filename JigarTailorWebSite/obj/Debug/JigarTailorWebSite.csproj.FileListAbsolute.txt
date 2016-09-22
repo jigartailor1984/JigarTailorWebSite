@@ -1,0 +1,6 @@
+D:\Personal\JigarTailorWebSite\JigarTailorWebSite\bin\JigarTailorWebSite.dll.config
+D:\Personal\JigarTailorWebSite\JigarTailorWebSite\bin\JigarTailorWebSite.dll
+D:\Personal\JigarTailorWebSite\JigarTailorWebSite\bin\JigarTailorWebSite.pdb
+D:\Personal\JigarTailorWebSite\JigarTailorWebSite\obj\Debug\JigarTailorWebSite.csprojResolveAssemblyReference.cache
+D:\Personal\JigarTailorWebSite\JigarTailorWebSite\obj\Debug\JigarTailorWebSite.dll
+D:\Personal\JigarTailorWebSite\JigarTailorWebSite\obj\Debug\JigarTailorWebSite.pdb
